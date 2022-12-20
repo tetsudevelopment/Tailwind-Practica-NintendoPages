@@ -1,6 +1,7 @@
-## Single Page Nintento Practice in TailwindCSS
+## Single Page Aplication Nintento Practice in TailwindCSS
 
-### Created by Brayan Marin-tetsudevelopment
 
 ### Page
-[Website link]()
+[Website link](https://tetsudevelopment.github.io/Tailwind-Practica-NintendoPages/public/index.html)
+
+### Created by Brayan Marin-tetsudevelopment
